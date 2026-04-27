@@ -399,4 +399,4 @@ Rung 3:  [ I7 ] ───────────────── ( RST M0 )
 
 ## License
 
-This project was developed as an academic laboratory assignment at BUET and is intended for educational use only. It is not certified for industrial deployment. Please refer to your institution's academic policies regarding reuse and distribution.
+This project was developed as an academic laboratory assignment at BUET and is intended for educational use only. It is not certified for industrial deployment.
