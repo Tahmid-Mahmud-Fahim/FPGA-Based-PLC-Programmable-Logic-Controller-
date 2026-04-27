@@ -121,8 +121,6 @@ localparam integer N_COUNTERS  = 8;
 │   └── sevenseg_driver.v           # 7-segment display driver
 ├── constraints/
 │   └── plc_multi_rung_top_xdc.xdc  # Nexys A7 pin constraint file
-├── sim/
-│   └── (testbench files)
 ├── docs/
 │   └── EEE304-Jul2025-B1-G05.pdf   # Full project report
 └── README.md
